@@ -1,5 +1,14 @@
 ### Hi there 👋
-Iam a Ph.D. and my research stands in the intersection of Earth Science interdisciplinary.
+I am a Ph.D. and my research stands in the intersection of Earth Science interdisciplinary.
+
+- 🔭 I’m currently working on DOE' E3SM model
+- 🌱 I’m currently learning Hillbert Space, Graphy Theory and GPU
+- 👯 I’m looking to collaborate on hydrology related projects
+- 🤔 I’m looking for help with math and physics
+- 💬 Ask me about high performance computing, hydrology and RS/GIS.
+- 📫 How to reach me: Twitter (changliao1025) or climate@changliao.us
+- 😄 Pronouns: ...
+- ⚡ Fun fact: I can roll a kayak.
 
 <!--
 **changliao1025/changliao1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
