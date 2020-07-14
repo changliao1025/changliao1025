@@ -1,8 +1,11 @@
-### Hi there 👋
+### Introduction
 I am a Ph.D. and my research stands in the intersection of Earth Science interdisciplinary.
 
-- 🔭 I’m currently working on DOE' E3SM model
-- 🌱 I’m currently learning Hillbert Space, Graphy Theory and GPU
+I wrote causal articles at www.changliao.us
+I developed models and tools to understand Earth system.
+
+- 🔭 I’m currently working on DOE's E3SM model
+- 🌱 I’m currently learning Hilbert Space, Graphy Theory and GPU
 - 👯 I’m looking to collaborate on hydrology related projects
 - 🤔 I’m looking for help with math and physics
 - 💬 Ask me about high performance computing, hydrology and RS/GIS.
