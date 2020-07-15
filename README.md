@@ -1,7 +1,7 @@
 ### Introduction
 I am a Ph.D. and my research stands in the intersection of Earth Science interdisciplinary.
 
-I wrote causal articles at www.changliao.us
+I wrote casual articles at www.changliao.us
 
 I developed models and tools to understand Earth system.
 
