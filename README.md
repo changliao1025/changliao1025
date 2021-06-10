@@ -1,5 +1,6 @@
 ### Introduction
-I am a Ph.D. and my research stands in the intersection of Earth Science interdisciplinary.
+I am an Earth Scientist at Pacific Northwest National Laboratory (PNNL).
+My research mainly focus on water cycle and carbon cycle at both regional and global scales.
 
 I wrote casual articles at www.changliao.us
 
