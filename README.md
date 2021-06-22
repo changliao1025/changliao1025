@@ -2,7 +2,7 @@
 I am an Earth Scientist at Pacific Northwest National Laboratory (PNNL).
 My research mainly focus on water cycle and carbon cycle at both regional and global scales.
 
-I wrote casual articles at www.changliao.us
+I wrote casual articles at https://changliao.github.io/
 
 I developed models and tools to understand Earth system.
 
