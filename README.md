@@ -1,13 +1,14 @@
 ### Introduction
 I am an Earth Scientist at Pacific Northwest National Laboratory (PNNL).
-My research mainly focus on water cycle and carbon cycle at both regional and global scales.
+
+My research mainly focus on high resolution Earth system modeling at both regional and global scales.
 
 I wrote casual articles at https://changliao.github.io/
 
 I developed models and tools to understand Earth system.
 
-- 🔭 I’m currently working on DOE's E3SM model
-- 🌱 I’m currently learning Hilbert Space, Graphy Theory and GPU
+- 🔭 I’m currently working on HexWatershed (www.hexwatershed.org and www.twitter.com/hexwatershed) model
+- 🌱 I’m currently learning Hilbert Space, Graph Theory and GPU
 - 👯 I’m looking to collaborate on hydrology related projects
 - 🤔 I’m looking for help with math and physics
 - 💬 Ask me about high performance computing, hydrology and RS/GIS.
