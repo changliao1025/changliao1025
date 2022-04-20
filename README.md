@@ -1,3 +1,8 @@
+### What's new
+
+1. I will give a workshop in the CSDMS 2022 annual meeting on the HexWatershed model:
+https://csdms.colorado.edu/wiki/Form:Annualmeeting2022
+
 ### Introduction
 I am an Earth Scientist at Pacific Northwest National Laboratory (PNNL).
 
