@@ -1,8 +1,12 @@
 ### What's new
 
+Pyhexwatershed running almost at the global scale with performance improvements (Cython, et al.)
+
+![flow_direction_w_observation](https://user-images.githubusercontent.com/20618384/208720053-d1e0de4f-d4cf-47b3-bb8e-82887ba61640.png)
 
 
 ### Introduction
+
 I am an Earth Scientist at Pacific Northwest National Laboratory (PNNL).
 
 My research mainly focus on high resolution Earth system modeling at both regional and global scales.
