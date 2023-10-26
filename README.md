@@ -19,7 +19,7 @@ I developed models and tools to understand Earth's system.
 - 👯 I’m looking to collaborate on hydrology-related projects
 - 🤔 I’m looking for help with math and physics
 - 💬 Ask me about high-performance computing, hydrology, and RS/GIS.
-- 📫 How to reach me: Twitter (www.twitter.com/changliao1025) or changliao.climate at gmail.com.
+- 📫 How to reach me: Bluesky (https://bsky.app/profile/changliao.bsky.social) or changliao.climate at gmail.com.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I can roll a kayak.
 
