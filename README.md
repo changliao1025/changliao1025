@@ -1,6 +1,6 @@
 ### What's new
 
-HexWatershed produces the world's first flow direction map for the Antarctic using the MPAS mesh.
+* HexWatershed produces the world's first flow direction map for the whole Arctic using the MPAS mesh.
 
 * 2024-06-15, I gave a talk in the ‘Advanced Computational Methods for Climate Modeling and Analysis’ session of the ESCO 2024 - 9th European Seminar on Computing ESCO2024. This talk focused on km-scale river routing modeling in ESM.
 
