@@ -2,7 +2,9 @@
 
 HexWatershed produces the world's first flow direction map for the Antarctic using the MPAS mesh.
 
-![antarctic](https://github.com/changliao1025/changliao1025/assets/20618384/8cca86a7-51fe-4569-b366-de2b06862f8c)
+* 2024-06-15 I gave a talk in the ‘Advanced Computational Methods for Climate Modeling and Analysis’ session in the ESCO 2024 - 9th European Seminar on Computing ESCO2024. This talk focuses on the km-scale river routing modeling in ESM.
+
+* 2024-05-15 I gave a workshop ‘Mesh independent flow direction modeling using HexWatershed 3.0’ in the CSDMS annual meeting at Montclair State University CSDMS 2024.
 
 ### Introduction
 
